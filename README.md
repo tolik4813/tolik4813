@@ -14,15 +14,19 @@
 
 ### Connect with me ⚡
 
-<p align="center" style="display:flex;gap:15px;justify-content:center;">
-  <a href="https://www.linkedin.com/in/anatolii-lehotin-487b31220/" target="_blank">
-    <img alt="LinkedIn" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/anatolii-lehotin-487b31220/" target="_blank" style="margin-right: 20px;">
+    <img alt="LinkedIn" width="26px" style="filter: brightness(0) invert(1); transition:0.3s; vertical-align:middle;" 
+    onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" 
+    onmouseout="this.style.filter='brightness(0) invert(1)'" 
+    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/tolik_leg/" target="_blank">
-    <img alt="Instagram" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
-  </a>
+
   <a href="mailto:afikusovich@gmail.com">
-    <img alt="Email" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
+    <img alt="Email" width="26px" style="filter: brightness(0) invert(1); transition:0.3s; vertical-align:middle;" 
+    onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" 
+    onmouseout="this.style.filter='brightness(0) invert(1)'" 
+    src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
   </a>
 </p>
 
