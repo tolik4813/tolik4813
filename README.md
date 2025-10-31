@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Anatolii+Lehotin;Frontend+Developer;React+%7C+TypeScript+%7C+React+Native" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <samp>
     Hey there 👋<br/>
     I'm <b>Anatolii</b> — a Frontend Developer focused on <b>React, TypeScript & React Native</b>.<br/>
@@ -11,20 +15,14 @@
 ### Connect with me ⚡
 
 <p align="center" style="display:flex;gap:15px;justify-content:center;">
-  <a href="#" target="_blank">
-    <img alt="Twitter" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
-  </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/anatolii-lehotin-487b31220/" target="_blank">
     <img alt="LinkedIn" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/tolik_leg/" target="_blank">
     <img alt="Instagram" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
   </a>
-  <a href="#" target="_blank">
-    <img alt="Dev.to" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/dev_to.svg" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="GitHub" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
+  <a href="mailto:afikusovich@gmail.com">
+    <img alt="Email" width="25px" style="filter: brightness(0) invert(1); transition:0.3s;" onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" onmouseout="this.style.filter='brightness(0) invert(1)'" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
   </a>
 </p>
 
