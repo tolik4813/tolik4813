@@ -33,6 +33,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolik4813&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolik4813&layout=compact&theme=tokyonight&hide_border=true" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tolik4813&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolik4813&layout=compact&theme=tokyonight&hide_border=true" height="130" />
 </p>
