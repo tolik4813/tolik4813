@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Anatolii+Lehotin;Frontend+Developer;React+%7C+TypeScript+%7C+React+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Anatolii+Lehotin;Fullstack+Developer;React+%7C+TypeScript+%7C+React+Native" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <samp>
     Hey there 👋<br/>
-    I'm <b>Anatolii</b> — a Frontend Developer focused on <b>React, TypeScript & React Native</b>.<br/>
+    I'm <b>Anatolii</b> — a Full-stack Developer focused on <b>React, TypeScript & React Native</b>.<br/>
     I build scalable apps with clean UI, strong architecture & modern tech.
   </samp>
 </p>
