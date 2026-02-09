@@ -5,7 +5,7 @@
 <p align="center">
   <samp>
     Hey there 👋<br/>
-    I'm <b>Anatolii</b> — a Full-stack Developer focused on <b>React, TypeScript & React Native</b>.<br/>
+    I'm <b>Anatolii</b> — a Full-stack Developer focused on <b>React, Node.js & React Native</b>.<br/>
     I build scalable apps with clean UI, strong architecture & modern tech.
   </samp>
 </p>
@@ -22,7 +22,7 @@
     src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
   </a>
 
-  <a href="mailto:afikusovich@gmail.com">
+  <a href="mailto:anatoliylehotin28@gmail.com">
     <img alt="Email" width="26px" style="filter: brightness(0) invert(1); transition:0.3s; vertical-align:middle;" 
     onmouseover="this.style.filter='invert(85%) sepia(98%) saturate(340%) hue-rotate(8deg) brightness(103%) contrast(104%)'" 
     onmouseout="this.style.filter='brightness(0) invert(1)'" 
@@ -31,8 +31,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolik4813&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolik4813&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="130" />
-</p>
